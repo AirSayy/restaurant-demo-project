@@ -3,7 +3,8 @@ This is a static fully Responsive Website for a Restaurant. It contains informat
 
 **Link to project:** 
 
-![my dashboard]()
+![Screenshot 2023-03-13 at 17 27 27](https://user-images.githubusercontent.com/107049081/224766045-d23ef019-318b-4846-b675-c09b57082977.png)
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
