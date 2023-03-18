@@ -19,4 +19,4 @@ The website also includes a contact page, which allows users to send a message t
 The website was designed by `Mithun Ray` and developed by Ese Eguakhide . The images used on the website were sourced from Unsplash, a free stock photo website.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit.
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as you see fit..
